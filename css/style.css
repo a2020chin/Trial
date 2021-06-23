@@ -208,7 +208,8 @@ table {
 
 
 .quest{
-    background: linear-gradient(#006749,#029861)
+    background: linear-gradient(#006749,#029861);
+    background: -webkit-linear-gradient(#006749,#029861);
 }
 .quest h2{
     text-align: center;
